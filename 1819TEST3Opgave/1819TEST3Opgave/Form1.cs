@@ -16,5 +16,10 @@ namespace _1819TEST3Opgave
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            //update 3
+        }
     }
 }
